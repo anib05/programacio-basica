@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: aquamarine;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  /*top, right, bottom, left*/
+  /* border-bottom: 2px solid yellow; */
+  /* border-color: yellow;
+	border-style: solid;
+	border-width: 2px; */
+  background-color: #f8f5f5;
+  width: 330px;
+  height: 150px;
+  border: 2px solid rgb(14, 1, 7);
+  padding: 20px;
+  /* margin: 10px*/
+  color: rgb(31, 227, 208);
+  font-size: 30px;
+  text-align: center;
+}
+
+p {
+  color: blue;
+  background-color: rgb(345, 245, 320);
+  padding-left: 50px;
+}
+
+.caja1 {
+  width: 330px;
+  height: 150px;
+  background-color: rgb(255, 196, 228);
+}
